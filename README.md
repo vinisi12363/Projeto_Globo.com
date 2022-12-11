@@ -1,2 +1,2 @@
-# Projeto_lobo.com
+# Projeto_globo.com
 Created with CodeSandbox
